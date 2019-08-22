@@ -1,0 +1,11 @@
+int
+Cantidad entera:	2 bytes o una palabra (varía según compilador).
+
+char
+Carácter:	1 byte.
+
+float
+Almacena valores reales en punto flotante:	1 palabra (4 bytes).
+
+double
+Almacena valores reales en doble precisión:	2 palabras (8 bytes).
